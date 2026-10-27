@@ -11,4 +11,4 @@ CS graduate building hands-on cybersecurity skills, aiming for SOC Analyst / Sec
 Kali Linux, Metasploitable, Windows AD lab (coming soon)
 
 ## Reach me
-- LinkedIn: https://www.linkedin.com/in/sakib-goundi-48497426a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/sakib-goundi-48497426
