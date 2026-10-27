@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sakib 👋
 
-<!--
-**Sakibmg/Sakibmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate building hands-on cybersecurity skills, aiming for SOC Analyst / Security Analyst roles.
 
-Here are some ideas to get you started:
+## What I'm doing right now
+- 12-week hands-on lab plan: Linux, Nmap, Wireshark, Metasploit, Active Directory, web security, Wazuh
+- CEH v13 (in progress) and CompTIA Security+
+- Documenting everything I learn in this profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Home lab
+Kali Linux, Metasploitable, Windows AD lab (coming soon)
+
+## Reach me
+- LinkedIn: https://www.linkedin.com/in/sakib-goundi-48497426a?utm_source=share_via&utm_content=profile&utm_medium=member_android
